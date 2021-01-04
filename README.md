@@ -25,7 +25,8 @@
 
 ## Courses
 
-[Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - khanacademy.org - basics of SQL](https://pl.khanacademy.org/computing/computer-programming/sql)
+- [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - khanacademy.org - basics of SQL](https://pl.khanacademy.org/computing/computer-programming/sql)
+- [SQL Zoo](https://sqlzoo.net/)
 
 ## Webinars
 
