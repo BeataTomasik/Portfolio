@@ -1,12 +1,15 @@
-# Portfolio
-# My Tester's Portfolio
-# About me
-Hello, my name is Beata Tomasik. I have graduated from the Faculty of Political Sciences of the Maria Curie-Skłodowska University in Lublin and I have postgraduate studies - Human resource management of the Warsaw School of Economics. I have always been interested in software development and software testing as well. My goal is to gain new technical skills, which will help me with expand my testing knowledge.
+# Portfolio - Tester
 
+---
+# About me
+**Hello, my name is Beata Tomasik. I have graduated from the Faculty of Political Sciences of the Maria Curie-Skłodowska University in Lublin and I have postgraduate studies - Human resource management of the Warsaw School of Economics. I have always been interested in software development and software testing as well. My goal is to gain new technical skills, which will help me with expand my testing knowledge**.
+
+---
 ## Tools
 - Jira
 - Trello
 
+---
 ## Tech skills
 - Testing software
 - Creating test case
@@ -17,6 +20,7 @@ Hello, my name is Beata Tomasik. I have graduated from the Faculty of Political 
 - SQL
 - SCRUM
 
+---
 # I'm lerning from:
 
 ## Courses
@@ -39,6 +43,7 @@ R.Smilgin - Zawód tester
 - [testuj.pl](https://testuj.pl/)
 - [w3schools.com](https://www.w3schools.com)
 
+---
 ## My projects
 
 - [Test cases for the site naturawit.pl](https://drive.google.com/file/d/1fFr-SLajI18iTbXDKYqjEj0A4nzf6c45/view?usp=sharing)
