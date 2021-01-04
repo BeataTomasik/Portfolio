@@ -8,6 +8,7 @@
 ## Tools
 - Jira
 - Trello
+- Zoom
 
 ---
 ## Tech skills
