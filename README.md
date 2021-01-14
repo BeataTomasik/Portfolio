@@ -2,7 +2,7 @@
 
 ---
 # About me
-**Hello, my name is Beata Tomasik. I have graduated from the Faculty of Political Sciences of the Maria Curie-Skłodowska University in Lublin and I have completed postgraduate studies - Human resource management at the Warsaw School of Economics. I have always been interested in software development and software testing. My goal is to acquire new technical skills, which will help me to expand my knowledge of software testing.**.
+**Hello, my name is Beata Tomasik. I have graduated from the Faculty of Political Sciences of the Maria Curie-Skłodowska University in Lublin and I have completed postgraduate studies - Human resource management at the Warsaw School of Economics. I have always been interested in software development and software testing. My goal is to acquire new technical skills, which will help me to expand my knowledge of software testing**.
 
 ---
 ## Tools
