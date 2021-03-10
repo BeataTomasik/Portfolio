@@ -50,8 +50,8 @@ R.Smilgin - Zawód tester
 
 - [Test cases for the site naturawit.pl](https://drive.google.com/file/d/1fFr-SLajI18iTbXDKYqjEj0A4nzf6c45/view?usp=sharing)
 - [Test report for the site naturawit.pl](https://drive.google.com/file/d/1MGYPIrd-3KdqxZPYGTZYoIo9KQjHj6CV/view?usp=sharing)
-- [Examples of bug report for the site naturawit.pl (Jira)](https://drive.google.com/file/d/1xQiwCNx3Q7CSkpOpPmgRiRKgce-mt1vQ/view?usp=sharing)
+- [Examples of bug reports for the site naturawit.pl (Jira)](https://drive.google.com/file/d/1xQiwCNx3Q7CSkpOpPmgRiRKgce-mt1vQ/view?usp=sharing)
 - [Test cases for the site justjoin.it](https://drive.google.com/file/d/1WThfRYrJdk_9py-qVSwl96zM0y_2oI0V/view?usp=sharing)
 - [Test report for the site justjoin.it](https://drive.google.com/file/d/1Bv9Pfq-pW3SJeE8edFo-VSKOZzW_hrJG/view?usp=sharing)     
-      
+- [Examples of bug reports for the site justjoin.it (Jira)](https://drive.google.com/file/d/1ql63TmGqkqZX5DW-EqwBWBqs14lB6fBF/view?usp=sharing)
       
