@@ -6,8 +6,10 @@
 
 ---
 ## Tools
+- Greenshot
 - Jira
 - Trello
+- Postman
 - Zoom
 
 ---
