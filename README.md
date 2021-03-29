@@ -18,8 +18,8 @@
 - Creating test case
 - Reporting bugs
 - CMS WordPress
-- DevTools
 - SQL
+- DevTools
 - SCRUM
 
 ---
