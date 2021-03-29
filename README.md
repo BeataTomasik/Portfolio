@@ -19,7 +19,6 @@
 - Reporting bugs
 - CMS WordPress
 - DevTools
-- MySQL
 - SQL
 - SCRUM
 
