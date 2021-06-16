@@ -2,7 +2,7 @@
 
 ---
 # About me
-**Hello, my name is Beata Tomasik. Since May 2021 I attend the Software Tester course at Software Development Academy (105 h)**.
+**Hello, my name is Beata Tomasik. Since May 2021 I attend the Software Tester course at Software Development Academy (105 h)**.  
 __Obtain knowledge from the course, webinars and additional trainings. I can say that I have information about working in Agile 
     and Waterfall methodologies. I can use tools like: Greenshot, Jira, MantisHub, Azure DevOps, youTrack, testRail, Trello, Confluence__.
 
