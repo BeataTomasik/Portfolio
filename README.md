@@ -2,44 +2,32 @@
 
 ---
 # About me
-**Hello, my name is Beata Tomasik. I have graduated from the Faculty of Political Sciences of the Maria Curie-Skłodowska University in Lublin and I have completed postgraduate studies - Human resource management at the Warsaw School of Economics. I have always been interested in software development and software testing. My goal is to acquire new technical skills, which will help me to expand my knowledge of software testing**.
+**Hello, my name is Beata Tomasik. Since May 2021 I attend the Software Tester course at Software Development Academy (105 h)**.
+**Obtain knowledge from the course, webinars and additional trainings. I can say that I have information about working in Agile 
+and Waterfall methodologies. I can use tools like: Greenshot, Jira, MantisHub, Azure DevOps, youTrack, testRail, Trello, Confluence**.
 
----
-## Tools
-- Greenshot
-- Jira
-- Trello
-- Postman
-- Zoom
+**When it comes to using programs and applications that support automation and programming I use: Postman, DevTools, Selenium IDE**.
 
----
-## Tech skills
-- Testing software
-- Creating test case
-- Reporting bugs
-- CMS WordPress
-- SQL
-- DevTools
-- SCRUM
+**I also have basic knowledge, constantly developed, of relational databases and SQL language usage with the use of MySQL**.
 
----
-# I'm lerning from:
 
-## Courses
+## I'm lerning from:
+
+### Courses
 
 - [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - khanacademy.org - basics of SQL](https://pl.khanacademy.org/computing/computer-programming/sql)
 - [SQL Zoo](https://sqlzoo.net/)
 
-## Webinars
+### Webinars
 
 - Dzień kariery kobiety w IT- Future Collars 
 - Czy automatyzacja testów jest dla mnie?? - Tomasz Stelmach
 
-## Books
+### Books
 
 R.Smilgin - Zawód tester
 
-## Webs
+### Webs
 
 - [toniebug.pl](https://www.toniebug.pl)
 - [testerzy.pl](https://testerzy.pl/)
